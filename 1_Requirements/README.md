@@ -67,6 +67,7 @@ A digital thermometer is a good project in microcontrollers because it provides 
 
 
 ##  Low level Requirements:
+Low Plan for the temperature measurment using LM35 sensor is that we can use another sensor and lower cost sensor such as DHT11 for temperature measurment. Another option is to replace the board to  the low cost board.
 
 
 
