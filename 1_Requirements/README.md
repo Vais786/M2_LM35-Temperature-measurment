@@ -42,7 +42,10 @@ The LM35 series of temperature sensors are produced by National Semiconductor Co
 
 
 ## SWOT ANALYSIS
-![SWOT Analysis]()
+*Sensing the temperature by LM35 sensor
+*Displaying result in LCD displayer
+
+
 
 # 4W&#39;s and 1&#39;H
 
